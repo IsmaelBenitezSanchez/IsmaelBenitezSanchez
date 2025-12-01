@@ -17,7 +17,7 @@ Soy estudiante de informática y apasionado por la tecnología, especialmente en
 | Lenguajes y Frameworks   | Herramientas           | Control de versiones         |
 |-------------------------|-----------------------|-----------------------------|
 | Java                    | Visual Studio Code     | Git                         |
-| HTML5, CSS3             | Eclipse / NetBeans     | GitHub                      |
+| HTML5, CSS3             | Visual Studio Code     | GitHub                      |
 |                         | MariaDB / PostgreSQL   |                             |
 
 ### 🚀 Proyectos
