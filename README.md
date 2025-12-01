@@ -1,7 +1,4 @@
-<!-- Imagen de bienvenida centrada -->
-<div align="center">
-  <img src="https://konpa.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" width="120" alt="Java Logo"/>
-  <h1>Hola, soy Ismael Benitez Sanchez</h1>
+<h1>Hola, soy Ismael Benitez Sanchez</h1>
 </div>
 
 ### 🌱 Sobre mí
