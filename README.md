@@ -1,33 +1,37 @@
-# 👋 ¡Hola! Soy Ismael Benítez Sánchez
+<!-- Imagen de bienvenida centrada -->
+<div align="center">
+  <img src="https://konpa.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" width="120" alt="Java Logo"/>
+  <h1>Hola, soy Ismael Benitez Sanchez</h1>
+</div>
 
-Soy estudiante de informática con interés en el desarrollo web y la programación en Java. Me encanta aprender nuevas tecnologías y mejorar cada día.
+### 🌱 Sobre mí
+Soy estudiante de informática y apasionado por la tecnología, especialmente en programación Java y desarrollo web con HTML y CSS. Me especializo en resolver problemas mediante código limpio y eficiente, y soy un gran practicante del control de versiones con Git y GitHub. Actualmente formándome en CIFP Francesc Borja Moll, en Mallorca, buscando crecer profesionalmente día a día.
 
-## Habilidades
+### 🎯 Objetivos
+- Profundizar en el desarrollo de aplicaciones Java robustas y escalables.
+- Crear experiencias web intuitivas y responsivas.
+- Contribuir a proyectos open source y colaborar en comunidad.
+- Mejorar mis habilidades en bases de datos y administración de sistemas.
 
-- Java
-- HTML & CSS
-- Git y GitHub para gestión de repositorios
-- Programación orientada a objetos
+### 💻 Tecnologías y herramientas
+| Lenguajes y Frameworks   | Herramientas           | Control de versiones         |
+|-------------------------|-----------------------|-----------------------------|
+| Java                    | Visual Studio Code     | Git                         |
+| HTML5, CSS3             | Eclipse / NetBeans     | GitHub                      |
+|                         | MariaDB / PostgreSQL   |                             |
 
-## Proyectos destacados
+### 🚀 Proyectos
+- **Gestor de Tareas en Java**: Aplicación de escritorio con interfaz gráfica para organizar y priorizar tareas diarias, implementando lógica de programación orientada a objetos.
+- **Sitio web personal**: Página web construida íntegramente con HTML y CSS, optimizada para dispositivos móviles con diseño responsive.
+- **Repositorio de ejercicios Java y prácticas de Git**: Colección organizada de ejercicios y scripts que utilizo para repasar conceptos y mejorar la eficiencia en Git.
 
-- **Proyecto en Java**: Aplicaciones orientadas a objetos, algoritmos y estructuras de datos.
-- **Sitio web HTML/CSS**: Creación de páginas web responsivas y atractivas.
-- **Gestión con Git**: Control de versiones eficiente en mis proyectos.
+### 📚 Filosofía de aprendizaje
+Creo que la práctica constante y la curiosidad son la clave para dominar cualquier tecnología. Por eso, codifico todos los días, investigo nuevas técnicas y comparto mi código para aprender colaborativamente.
 
-## Herramientas que uso
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-## Contacto
-
-- Email: ismaelbenitezsanchez05@gmail.com
-- LinkedIn: https://www.linkedin.com/in/ismael-benitez-bba962246/
+### 📫 Contacto
+- 📧 Email: ismaelbenitezsanchez05@gmail.com
+- 🌐 LinkedIn: https://www.linkedin.com/in/ismael-benitez-bba962246/
 
 ---
 
-> “Siempre aprendiendo y creando cosas nuevas.”
+Me encanta recibir feedback constructivo y conectar con otros desarrolladores para compartir conocimientos y crecer juntos. ¡No dudes en contactarme!
