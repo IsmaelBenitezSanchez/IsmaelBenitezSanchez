@@ -1,10 +1,38 @@
-<h1 align="center"><b>Hi , I'm Ismael Benitez </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<!-- Encabezado con imagen opcional -->
+<div align="center">
+  <img src="https://konpa.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" width="100" alt="Java Logo"/>
+</div>
 
-<p align="center">
+# 👋 ¡Hola! Soy [Ismael Benítez Sánchez]
 
-<picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
-<br>
+Soy estudiante de informática con interés en el desarrollo web y la programación en Java. Me encanta aprender nuevas tecnologías y mejorar cada día.
 
-  - Currently learning Web Development by Self.
+## 💼 Habilidades
 
-![JAVA](https://img.shields.io/badge/Java%20-%2300599C.svg?style=for-the-badge&logo=J%2B%2B&logoColor=white)
+- Java
+- HTML & CSS
+- Git y GitHub para gestión de repositorios
+- Programación orientada a objetos
+
+## 🚀 Proyectos destacados
+
+- **Proyecto en Java**: Aplicaciones orientadas a objetos, algoritmos y estructuras de datos.
+- **Sitio web HTML/CSS**: Creación de páginas web responsivas y atractivas.
+- **Gestión con Git**: Control de versiones eficiente en mis proyectos.
+
+## 🛠️ Herramientas que uso
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+## 📫 Contacto
+
+- Email: ismaelbenitezsanchez05@gmail.com
+- LinkedIn: (https://www.linkedin.com/in/ismael-benitez-bba962246/)
+
+---
+
+> “Siempre aprendiendo y creando cosas nuevas.”
