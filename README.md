@@ -1,8 +1,3 @@
-<!-- Encabezado con imagen opcional -->
-<div align="center">
-  <img src="https://konpa.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" width="100" alt="Java Logo"/>
-</div>
-
 # 👋 ¡Hola! Soy [Ismael Benítez Sánchez]
 
 Soy estudiante de informática con interés en el desarrollo web y la programación en Java. Me encanta aprender nuevas tecnologías y mejorar cada día.
@@ -31,7 +26,7 @@ Soy estudiante de informática con interés en el desarrollo web y la programaci
 ## 📫 Contacto
 
 - Email: ismaelbenitezsanchez05@gmail.com
-- LinkedIn: (https://www.linkedin.com/in/ismael-benitez-bba962246/)
+- LinkedIn: https://www.linkedin.com/in/ismael-benitez-bba962246/
 
 ---
 
