@@ -18,9 +18,8 @@ Soy estudiante de informática y apasionado por la tecnología, especialmente en
 |                         | MariaDB / PostgreSQL   |                             |
 
 ### 🚀 Proyectos
-- **Gestor de Tareas en Java**: Aplicación de escritorio con interfaz gráfica para organizar y priorizar tareas diarias, implementando lógica de programación orientada a objetos.
 - **Sitio web personal**: Página web construida íntegramente con HTML y CSS, optimizada para dispositivos móviles con diseño responsive.
-- **Repositorio de ejercicios Java y prácticas de Git**: Colección organizada de ejercicios y scripts que utilizo para repasar conceptos y mejorar la eficiencia en Git.
+- **Repositorio de ejercicios Java**: Colección organizada de ejercicios y scripts que utilizo para repasar conceptos y mejorar la eficiencia en Git.
 
 ### 📚 Filosofía de aprendizaje
 Creo que la práctica constante y la curiosidad son la clave para dominar cualquier tecnología. Por eso, codifico todos los días, investigo nuevas técnicas y comparto mi código para aprender colaborativamente.
